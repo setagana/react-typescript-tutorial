@@ -7,3 +7,5 @@ export class Hello extends React.Component<HelloProps, undefined> {
         return <h1>Hello from {props.compiler} and {props.framework} !</h1>;
     }
 }
+
+// Test
